@@ -115,6 +115,5 @@ int main(int argc, char **argv) {
     
     printf("[main] started: %d threads\n", threads);
 
-    while(1)
-        sleep(1);
+    sleep(args.seconds);
 }
