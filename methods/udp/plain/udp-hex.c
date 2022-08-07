@@ -99,7 +99,7 @@ int main(int argc, char **argv) {
 
     puts("[main] initiated strings");
 
-    if(threads < 200)
+    if(threads > 200)
         puts("[warning] threads are high");
 
     args_t args = {
