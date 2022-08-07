@@ -95,7 +95,7 @@ int main(int argc, char **argv) {
         return -1;
     }
 
-    if(threads < 200)
+    if(threads > 200)
         puts("[warning] threads are high");
 
     args_t args = {
