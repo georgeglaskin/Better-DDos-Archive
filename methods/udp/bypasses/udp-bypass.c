@@ -30,7 +30,7 @@ static void atk_watch(int seconds) { //higher pps
 }
 
 static int random_int(int nMin, int nMax) {
-    return rand() & ((nMax + 1) - nMin) + nMin;
+    return rand() % ((nMax + 1) - nMin) + nMin;
 }
 
 static void random_str(char *string, int len) {
