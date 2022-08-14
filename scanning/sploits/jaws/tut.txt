@@ -1,0 +1,12 @@
+make your payload at urlencode.org (paste your payload then click encode)
+in file jawsscaner.py line 11 replace your urlencoded payload
+options for the jaws scanner:
+python jawsscanner.py port threads
+threads is how fast it scans I reccommend port 80 6001 60001
+when it asks for random mode there are actually 4 options
+1. Y for random mode then you enter the amount of ips to scan
+2. n will give you ranges that are already in the jaws.py file (you can edit them if you want)
+3. 1 it will scan a range list you put in
+4. jaws will scan a list of ips you put in (the 3 lists from shodan api jaws.txt jawslol.txt jawskek)
+Enjoy!
+Made by urmommy

@@ -1,0 +1,5 @@
+make sure that you have armv7l cross compiled with your payload, otherwise it wont work
+change the host name at line 9 (your ip)
+change your bins name at line 14
+to run
+python avtech.py list.txt

