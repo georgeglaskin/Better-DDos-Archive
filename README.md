@@ -5,4 +5,8 @@ note im writing a lot of the things i drop
 if you want things i can write them
 either buy them from me or ill leak them
 
-<a href="https://t.me/leaksurmom"> <button name="telegram" ><img src="https://ar.toneden.io/26034855/512a7f06-d404-4653-9981-ae3e6166e939" width="175" height="50"/></button> </a>
+Check out Sellix: https://slickity.mysellix.io/, Andoryu Builds, 0Days, Golang Scripts
+Check out new leaks group: https://t.me/leaksurmomv2
+Check out new leaks channel: https://t.me/leakslickity
+Check out Andoryu channel: https://t.me/andoryubotnet
+Check out youtube: https://www.youtube.com/@slickityoffdahinges
